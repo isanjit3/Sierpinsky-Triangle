@@ -1,6 +1,6 @@
 """
 Sanjit Thangarasu
-Period 7 | Block A | Mr. Gordon
+Period 7 | Block A | Mr. Gordon | Poolesville SMCS Program
 Sierpinski Triangle Recursion Model
 This is a program that takes two (2) user inputs, the base length of the triangle,
 as well as the degree to which the program should execute the program.
